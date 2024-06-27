@@ -12,4 +12,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=saman-tofighian&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=saman-tofighian&label=front-end&color=9&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
